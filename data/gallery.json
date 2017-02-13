@@ -1,7 +1,7 @@
 [
   {
-    "name": "Print Design",
-    "slug": "print-design",
+    "name": "Sorority PR",
+    "slug": "sorority-pr",
     "works": [
       {
         "title": "Cras mattis consectetur purus sit amet fermentum.",
@@ -62,8 +62,8 @@
     ]
   },
   {
-    "name": "UI/UX Interfaces",
-    "slug": "ui-ux-interfaces",
+    "name": "Philanthropy PR",
+    "slug": "philanthropy-pr",
     "works": [
       {
         "title": "",
@@ -126,8 +126,8 @@
     ]
   },
   {
-    "name": "Web Layouts",
-    "slug": "web-layouts",
+    "name": "Apparel Design",
+    "slug": "apparel-design",
     "works": [
       {
         "title": "",
@@ -189,8 +189,8 @@
     ]
   },
   {
-    "name": "Illustrations",
-    "slug": "illustrations",
+    "name": "Other Work",
+    "slug": "other-work",
     "works": [
       {
         "title": "",
