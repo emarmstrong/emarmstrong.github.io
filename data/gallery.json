@@ -6,10 +6,10 @@
       {
         "title": "Cras mattis consectetur purus sit amet fermentum.",
         "description": "Donec ullamcorper nulla non metus auctor fringilla. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.",
-        "thumb": "http://placehold.it/250x250",
-        "thumb_2x": "http://placehold.it/500x500",
-        "preview": "http://placehold.it/560x328",
-        "preview_2x": "http://placehold.it/1120x656"
+        "thumb": "../img/work/thon-1.jpg",
+        "thumb_2x": "../img/work/thon-1.jpg",
+        "preview": "../img/work/thon-1.jpg",
+        "preview_2x": "../img/work/thon-1.jpg"
       },
       {
         "title": "Cras justo odio, dapibus ac facilisis in, egestas eget quam.",
