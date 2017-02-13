@@ -14,22 +14,6 @@
       {
         "title": "",
         "description": "",
-        "thumb": "../img/work/ship.png",
-        "thumb_2x": "../img/work/ship.png",
-        "preview": "../img/work/ship.png",
-        "preview_2x": "../img/work/ship.png"
-      },
-      {
-        "title": "",
-        "description": "",
-        "thumb": "../img/work/theta.png",
-        "thumb_2x": "../img/work/theta.png",
-        "preview": "../img/work/theta.png",
-        "preview_2x": "../img/work/theta.png"
-      },
-      {
-        "title": "",
-        "description": "",
         "thumb": "../img/work/blue-watercolor-cover.jpg",
         "thumb_2x": "../img/work/blue-watercolor-cover.jpg",
         "preview": "../img/work/blue-watercolor-cover.jpg",
@@ -50,14 +34,6 @@
         "thumb_2x": "../img/work/kat-at-bat-open-house-02.jpg",
         "preview": "../img/work/kat-at-bat-open-house-02.jpg",
         "preview_2x": "../img/work/kat-at-bat-open-house-02.jpg"
-      },
-      {
-        "title": "",
-        "description": "",
-        "thumb": "",
-        "thumb_2x": "",
-        "preview": "",
-        "preview_2x": ""
       }
     ]
   },
@@ -65,14 +41,6 @@
     "name": "Philanthropy PR",
     "slug": "philanthropy-pr",
     "works": [
-      {
-        "title": "",
-        "thumb": "../img/work/casa.png",
-        "thumb_2x": "../img/work/casa.png",
-        "preview": "../img/work/casa.png",
-        "preview_2x": "../img/work/casa.png",
-        "description": ""
-      },
       {
         "title": "",
         "thumb": "../img/work/danceathon.png",
@@ -117,10 +85,58 @@
       },
       {
         "title": "",
-        "thumb": "",
-        "thumb_2x": "",
-        "preview": "",
-        "preview_2x": "",
+        "thumb": "..img/work/philanthropy-cover-01.jpg",
+        "thumb_2x": "..img/work/philanthropy-cover-01.jpg",
+        "preview": "..img/work/philanthropy-cover-01.jpg",
+        "preview_2x": "..img/work/philanthropy-cover-01.jpg",
+        "description": ""
+      },
+      {
+        "title": "",
+        "thumb": "..img/work/thon-bagels-03.jpg",
+        "thumb_2x": "..img/work/thon-bagels-03.jpg",
+        "preview": "..img/work/thon-bagels-03.jpg",
+        "preview_2x": "..img/work/thon-bagels-03.jpg",
+        "description": ""
+      },
+      {
+        "title": "",
+        "thumb": "..img/work/thon-child-health-day.jpg",
+        "thumb_2x": "..img/work/thon-child-health-day.jpg",
+        "preview": "..img/work/thon-child-health-day.jpg",
+        "preview_2x": "..img/work/thon-child-health-day.jpg",
+        "description": ""
+      },
+      {
+        "title": "",
+        "thumb": "..img/work/thon-logos-rebrand-04.jpg",
+        "thumb_2x": "..img/work/thon-logos-rebrand-04.jpg",
+        "preview": "..img/work/thon-logos-rebrand-04.jpg",
+        "preview_2x": "..img/work/thon-logos-rebrand-04.jpg",
+        "description": ""
+      },
+      {
+        "title": "",
+        "thumb": "..img/work/thon-pumpkin-painting-01.jpg",
+        "thumb_2x": "..img/work/thon-pumpkin-painting-01.jpg",
+        "preview": "..img/work/thon-pumpkin-painting-01.jpg",
+        "preview_2x": "..img/work/thon-pumpkin-painting-01.jpg",
+        "description": ""
+      },
+      {
+        "title": "",
+        "thumb": "..img/work/thon-turkey-day-02.jpg",
+        "thumb_2x": "..img/work/thon-turkey-day-02.jpg",
+        "preview": "..img/work/thon-turkey-day-02.jpg",
+        "preview_2x": "..img/work/thon-turkey-day-02.jpg",
+        "description": ""
+      },
+      {
+        "title": "",
+        "thumb": "..img/work/thon-green-cover.jpg",
+        "thumb_2x": "..img/work/thon-green-cover.jpg",
+        "preview": "..img/work/thon-green-cover.jpg",
+        "preview_2x": "..img/work/thon-green-cover.jpg",
         "description": ""
       }
     ]
@@ -131,59 +147,26 @@
     "works": [
       {
         "title": "",
-        "thumb": "",
-        "thumb_2x": "",
-        "preview": "",
-        "preview_2x": "",
-        "description": ""
+        "description": "",
+        "thumb": "../img/work/ship.png",
+        "thumb_2x": "../img/work/ship.png",
+        "preview": "../img/work/ship.png",
+        "preview_2x": "../img/work/ship.png"
       },
       {
         "title": "",
-        "thumb": "",
-        "thumb": "",
-        "thumb_2x": "",
-        "preview": "",
-        "preview_2x": "",
-        "description": ""
+        "description": "",
+        "thumb": "../img/work/theta.png",
+        "thumb_2x": "../img/work/theta.png",
+        "preview": "../img/work/theta.png",
+        "preview_2x": "../img/work/theta.png"
       },
       {
         "title": "",
-        "thumb": "",
-        "thumb_2x": "",
-        "preview": "",
-        "preview_2x": "",
-        "description": ""
-      },
-      {
-        "title": "",
-        "thumb": "",
-        "thumb_2x": "",
-        "preview": "",
-        "preview_2x": "",
-        "description": ""
-      },
-      {
-        "title": "",
-        "thumb": "",
-        "thumb_2x": "",
-        "preview": "",
-        "preview_2x": "",
-        "description": ""
-      },
-      {
-        "title": "",
-        "thumb": "",
-        "thumb_2x": "",
-        "preview": "",
-        "preview_2x": "",
-        "description": ""
-      },
-      {
-        "title": "",
-        "thumb": "",
-        "thumb_2x": "",
-        "preview": "",
-        "preview_2x": "",
+        "thumb": "../img/work/casa.png",
+        "thumb_2x": "../img/work/casa.png",
+        "preview": "../img/work/casa.png",
+        "preview_2x": "../img/work/casa.png",
         "description": ""
       }
     ]
@@ -194,58 +177,10 @@
     "works": [
       {
         "title": "",
-        "thumb": "",
-        "thumb_2x": "",
-        "preview": "",
-        "preview_2x": "",
-        "description": ""
-      },
-      {
-        "title": "",
-        "thumb": "",
-        "thumb_2x": "",
-        "preview": "",
-        "preview_2x": "",
-        "description": ""
-      },
-      {
-        "title": "",
-        "thumb": "",
-        "thumb_2x": "",
-        "preview": "",
-        "preview_2x": "",
-        "description": ""
-      },
-      {
-        "title": "",
-        "thumb": "",
-        "thumb_2x": "",
-        "preview": "",
-        "preview_2x": "",
-        "description": ""
-      },
-      {
-        "title": "",
-        "thumb": "",
-        "thumb_2x": "",
-        "preview": "",
-        "preview_2x": "",
-        "description": ""
-      },
-      {
-        "title": "",
-        "thumb": "",
-        "thumb_2x": "",
-        "preview": "",
-        "preview_2x": "",
-        "description": ""
-      },
-      {
-        "title": "",
-        "thumb": "",
-        "thumb_2x": "",
-        "preview": "",
-        "preview_2x": "",
+        "thumb": "../img/work/VCU-wellness-poster.jpg",
+        "thumb_2x": "../img/work/VCU-wellness-poster.jpg",
+        "preview": "../img/work/VCU-wellness-poster.jpg",
+        "preview_2x": "../img/work/VCU-wellness-poster.jpg",
         "description": ""
       }
     ]
