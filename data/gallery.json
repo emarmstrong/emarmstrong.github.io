@@ -4,56 +4,56 @@
     "slug": "sorority-pr",
     "works": [
       {
-        "title": "Cras mattis consectetur purus sit amet fermentum.",
-        "description": "Donec ullamcorper nulla non metus auctor fringilla. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.",
+        "title": "",
+        "description": "",
         "thumb": "../img/work/thon-1.jpg",
         "thumb_2x": "../img/work/thon-1.jpg",
         "preview": "../img/work/thon-1.jpg",
         "preview_2x": "../img/work/thon-1.jpg"
       },
       {
-        "title": "Cras justo odio, dapibus ac facilisis in, egestas eget quam.",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas faucibus mollis interdum.",
+        "title": "",
+        "description": "",
+        "thumb": "../img/work/ship.png",
+        "thumb_2x": "../img/work/ship.png",
+        "preview": "../img/work/ship.png",
+        "preview_2x": "../img/work/ship.png"
+      },
+      {
+        "title": "",
+        "description": "",
+        "thumb": "../img/work/theta.png",
+        "thumb_2x": "../img/work/theta.png",
+        "preview": "../img/work/theta.png",
+        "preview_2x": "../img/work/theta.png"
+      },
+      {
+        "title": "",
+        "description": "",
+        "thumb": "../img/work/blue-watercolor-cover.jpg",
+        "thumb_2x": "../img/work/blue-watercolor-cover.jpg",
+        "preview": "../img/work/blue-watercolor-cover.jpg",
+        "preview_2x": "../img/work/blue-watercolor-cover.jpg"
+      },
+      {
+        "title": "",
+        "description": "",
         "thumb": "",
         "thumb_2x": "",
         "preview": "",
         "preview_2x": ""
       },
       {
-        "title": "Curabitur blandit tempus porttitor.",
-        "description": "Maecenas faucibus mollis interdum. Curabitur blandit tempus porttitor.",
+        "title": "",
+        "description": "",
         "thumb": "",
         "thumb_2x": "",
         "preview": "",
         "preview_2x": ""
       },
       {
-        "title": "Nulla vitae elit libero, a pharetra augue.",
-        "description": "Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.",
-        "thumb": "",
-        "thumb_2x": "",
-        "preview": "",
-        "preview_2x": ""
-      },
-      {
-        "title": "Donec ullamcorper nulla non metus auctor fringilla.",
-        "description": "Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Cras mattis consectetur purus sit amet fermentum.",
-        "thumb": "",
-        "thumb_2x": "",
-        "preview": "",
-        "preview_2x": ""
-      },
-      {
-        "title": "Nulla vitae elit libero, a pharetra augue.",
-        "description": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        "thumb": "",
-        "thumb_2x": "",
-        "preview": "",
-        "preview_2x": ""
-      },
-      {
-        "title": "Sed posuere consectetur est at lobortis.",
-        "description": "Nullam id dolor id nibh ultricies vehicula ut id elit. Vestibulum id ligula porta felis euismod semper.",
+        "title": "",
+        "description": "",
         "thumb": "",
         "thumb_2x": "",
         "preview": "",
@@ -83,19 +83,19 @@
       },
       {
         "title": "",
-        "thumb": "",
-        "thumb_2x": "",
-        "preview": "",
-        "preview_2x": "",
+        "thumb": "../img/work/dodgeball.png",
+        "thumb_2x": "../img/work/dodgeball.png",
+        "preview": "../img/work/dodgeball.png",
+        "preview_2x": "../img/work/dodgeball.png",
         "description": ""
       },
       {
         "title": "",
-        "thumb": "",
-        "thumb": "",
-        "thumb_2x": "",
-        "preview": "",
-        "preview_2x": "",
+        "thumb": "../img/work/thonlogo_thonlogo_diamond.png",
+        "thumb": "../img/work/thonlogo_thonlogo_diamond.png",
+        "thumb_2x": "../img/work/thonlogo_thonlogo_diamond.png",
+        "preview": "../img/work/thonlogo_thonlogo_diamond.png",
+        "preview_2x": "../img/work/thonlogo_thonlogo_diamond.png",
         "description": ""
       },
       {
