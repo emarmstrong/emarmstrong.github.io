@@ -6,34 +6,34 @@
       {
         "title": "",
         "description": "",
-        "thumb": "../img/work/thon-1.jpg",
-        "thumb_2x": "../img/work/thon-1.jpg",
-        "preview": "../img/work/thon-1.jpg",
-        "preview_2x": "../img/work/thon-1.jpg"
+        "thumb": "img/work/thon-1.jpg",
+        "thumb_2x": "img/work/thon-1.jpg",
+        "preview": "img/work/thon-1.jpg",
+        "preview_2x": "img/work/thon-1.jpg"
       },
       {
         "title": "",
         "description": "",
-        "thumb": "../img/work/blue-watercolor-cover.jpg",
-        "thumb_2x": "../img/work/blue-watercolor-cover.jpg",
-        "preview": "../img/work/blue-watercolor-cover.jpg",
-        "preview_2x": "../img/work/blue-watercolor-cover.jpg"
+        "thumb": "img/work/blue-watercolor-cover.jpg",
+        "thumb_2x": "img/work/blue-watercolor-cover.jpg",
+        "preview": "img/work/blue-watercolor-cover.jpg",
+        "preview_2x": "img/work/blue-watercolor-cover.jpg"
       },
       {
         "title": "",
         "description": "",
-        "thumb": "../img/work/dunk-a-theta-04.jpg",
-        "thumb_2x": "../img/work/dunk-a-theta-04.jpg",
-        "preview": "../img/work/dunk-a-theta-04.jpg",
-        "preview_2x": "../img/work/dunk-a-theta-04.jpg"
+        "thumb": "img/work/dunk-a-theta-04.jpg",
+        "thumb_2x": "img/work/dunk-a-theta-04.jpg",
+        "preview": "img/work/dunk-a-theta-04.jpg",
+        "preview_2x": "img/work/dunk-a-theta-04.jpg"
       },
       {
         "title": "",
         "description": "",
-        "thumb": "../img/work/kat-at-bat-open-house-02.jpg",
-        "thumb_2x": "../img/work/kat-at-bat-open-house-02.jpg",
-        "preview": "../img/work/kat-at-bat-open-house-02.jpg",
-        "preview_2x": "../img/work/kat-at-bat-open-house-02.jpg"
+        "thumb": "img/work/kat-at-bat-open-house-02.jpg",
+        "thumb_2x": "img/work/kat-at-bat-open-house-02.jpg",
+        "preview": "img/work/kat-at-bat-open-house-02.jpg",
+        "preview_2x": "img/work/kat-at-bat-open-house-02.jpg"
       }
     ]
   },
@@ -43,44 +43,44 @@
     "works": [
       {
         "title": "",
-        "thumb": "../img/work/danceathon.png",
-        "thumb_2x": "../img/work/danceathon.png",
-        "preview": "../img/work/danceathon.png",
-        "preview_2x": "../img/work/danceathon.png",
+        "thumb": "img/work/danceathon.png",
+        "thumb_2x": "img/work/danceathon.png",
+        "preview": "img/work/danceathon.png",
+        "preview_2x": "img/work/danceathon.png",
         "description": ""
       },
       {
         "title": "",
-        "thumb": "../img/work/dodgeball.png",
-        "thumb_2x": "../img/work/dodgeball.png",
-        "preview": "../img/work/dodgeball.png",
-        "preview_2x": "../img/work/dodgeball.png",
+        "thumb": "img/work/dodgeball.png",
+        "thumb_2x": "img/work/dodgeball.png",
+        "preview": "img/work/dodgeball.png",
+        "preview_2x": "img/work/dodgeball.png",
         "description": ""
       },
       {
         "title": "",
-        "thumb": "../img/work/thonlogo_thonlogo_diamond.png",
-        "thumb": "../img/work/thonlogo_thonlogo_diamond.png",
-        "thumb_2x": "../img/work/thonlogo_thonlogo_diamond.png",
-        "preview": "../img/work/thonlogo_thonlogo_diamond.png",
-        "preview_2x": "../img/work/thonlogo_thonlogo_diamond.png",
+        "thumb": "img/work/thonlogo_thonlogo_diamond.png",
+        "thumb": "img/work/thonlogo_thonlogo_diamond.png",
+        "thumb_2x": "img/work/thonlogo_thonlogo_diamond.png",
+        "preview": "img/work/thonlogo_thonlogo_diamond.png",
+        "preview_2x": "img/work/thonlogo_thonlogo_diamond.png",
         "description": ""
       },
       {
         "title": "",
-        "thumb": "../img/work/Dodgeball 2015 cover.jpg",
-        "thumb": "../img/work/Dodgeball 2015 cover.jpg",
-        "thumb_2x": "../img/work/Dodgeball 2015 cover.jpg",
-        "preview": "../img/work/Dodgeball 2015 cover.jpg",
-        "preview_2x": "../img/work/Dodgeball 2015 cover.jpg",
+        "thumb": "img/work/Dodgeball 2015 cover.jpg",
+        "thumb": "img/work/Dodgeball 2015 cover.jpg",
+        "thumb_2x": "img/work/Dodgeball 2015 cover.jpg",
+        "preview": "img/work/Dodgeball 2015 cover.jpg",
+        "preview_2x": "img/work/Dodgeball 2015 cover.jpg",
         "description": ""
       },
       {
         "title": "",
-        "thumb": "../img/work/dodgeball 2016_Dodgeball 2015 cover copy.jpg",
-        "thumb_2x": "../img/work/dodgeball 2016_Dodgeball 2015 cover copy.jpg",
-        "preview": "../img/work/dodgeball 2016_Dodgeball 2015 cover copy.jpg",
-        "preview_2x": "../img/work/dodgeball 2016_Dodgeball 2015 cover copy.jpg",
+        "thumb": "img/work/dodgeball 2016_Dodgeball 2015 cover copy.jpg",
+        "thumb_2x": "img/work/dodgeball 2016_Dodgeball 2015 cover copy.jpg",
+        "preview": "img/work/dodgeball 2016_Dodgeball 2015 cover copy.jpg",
+        "preview_2x": "img/work/dodgeball 2016_Dodgeball 2015 cover copy.jpg",
         "description": ""
       },
       {
@@ -148,25 +148,25 @@
       {
         "title": "",
         "description": "",
-        "thumb": "../img/work/ship.png",
-        "thumb_2x": "../img/work/ship.png",
-        "preview": "../img/work/ship.png",
-        "preview_2x": "../img/work/ship.png"
+        "thumb": "img/work/ship.png",
+        "thumb_2x": "img/work/ship.png",
+        "preview": "img/work/ship.png",
+        "preview_2x": "img/work/ship.png"
       },
       {
         "title": "",
         "description": "",
-        "thumb": "../img/work/theta.png",
-        "thumb_2x": "../img/work/theta.png",
-        "preview": "../img/work/theta.png",
-        "preview_2x": "../img/work/theta.png"
+        "thumb": "img/work/theta.png",
+        "thumb_2x": "img/work/theta.png",
+        "preview": "img/work/theta.png",
+        "preview_2x": "img/work/theta.png"
       },
       {
         "title": "",
-        "thumb": "../img/work/casa.png",
-        "thumb_2x": "../img/work/casa.png",
-        "preview": "../img/work/casa.png",
-        "preview_2x": "../img/work/casa.png",
+        "thumb": "img/work/casa.png",
+        "thumb_2x": "img/work/casa.png",
+        "preview": "img/work/casa.png",
+        "preview_2x": "img/work/casa.png",
         "description": ""
       }
     ]
@@ -177,10 +177,10 @@
     "works": [
       {
         "title": "",
-        "thumb": "../img/work/VCU-wellness-poster.jpg",
-        "thumb_2x": "../img/work/VCU-wellness-poster.jpg",
-        "preview": "../img/work/VCU-wellness-poster.jpg",
-        "preview_2x": "../img/work/VCU-wellness-poster.jpg",
+        "thumb": "img/work/VCU-wellness-poster.jpg",
+        "thumb_2x": "img/work/VCU-wellness-poster.jpg",
+        "preview": "img/work/VCU-wellness-poster.jpg",
+        "preview_2x": "img/work/VCU-wellness-poster.jpg",
         "description": ""
       }
     ]
